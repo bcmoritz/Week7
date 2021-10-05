@@ -3073,6 +3073,12 @@
 ]
 [
     {
+        "date": "2020-12-25",
+        "name": "Christmas Day"
+    }
+]
+[
+    {
         "date": "2020-12-26",
         "name": "Kwanzaa (first day)"
     }
@@ -5889,6 +5895,12 @@
     {
         "date": "2021-12-24",
         "name": "Christmas Eve"
+    }
+]
+[
+    {
+        "date": "2021-12-25",
+        "name": "Christmas Day"
     }
 ]
 [
@@ -8755,6 +8767,12 @@
 ]
 [
     {
+        "date": "2022-12-25",
+        "name": "Christmas Day"
+    }
+]
+[
+    {
         "date": "2022-12-26",
         "name": "Last Day of Chanukah"
     }
@@ -11600,6 +11618,12 @@
 [
     {
         "date": "2023-12-25",
+        "name": "Christmas Day"
+    }
+]
+[
+    {
+        "date": "2023-12-25",
         "name": "Christmas Eve observed"
     }
 ]
@@ -14407,6 +14431,12 @@
 ]
 [
     {
+        "date": "2024-12-25",
+        "name": "Christmas Day"
+    }
+]
+[
+    {
         "date": "2024-12-26",
         "name": "Chanukah/Hanukkah (first day)"
     }
@@ -14437,7 +14467,7 @@
 ]
 [
     {
-        "date": "2035-10-10",
+        "date": "2025-01-13",
         "name": "asdf"
     }
 ]

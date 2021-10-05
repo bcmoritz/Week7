@@ -39,24 +39,24 @@ class Holiday:
     @jsonprint
     def getDetails(self):
         return [{'date': self.date, 'name': self.name}]
-    def __gt__(self, other):
-        if self.date > other.date:
-            return self.date > other.date
-        else:
-            return False
-    def __eq__(self, other):
-        if self.date == other.date:
-            return self.unit == other.date
-        else:
-            return False
-    def __ge__(self, other):
-        if self.date == other.date:
-            return self.date >= other.amount
-        else:
-            return False
-    def getHTML(url):
-        response = requests.get(url)
-        return response.text
+    # def __gt__(self, other):
+    #     if self.date > other.date:
+    #         return self.date > other.date
+    #     else:
+    #         return False
+    # def __eq__(self, other):
+    #     if self.date == other.date:
+    #         return self.unit == other.date
+    #     else:
+    #         return False
+    # def __ge__(self, other):
+    #     if self.date == other.date:
+    #         return self.date >= other.amount
+    #     else:
+    #         return False
+def getHTML(url):
+    response = requests.get(url)
+    return response.text
 
 
 
